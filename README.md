@@ -1,1 +1,1 @@
-https://github.com/Elcan1989/XinjiangNews
+https://elcan1989.github.io/XinjiangNews/
